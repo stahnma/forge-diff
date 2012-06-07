@@ -3,6 +3,9 @@ This is small and simple project to tell what's new on forge.
 # Installation
 Install the following gems.  No I will not include a Gemfile.
 
+
+(Written in ruby, developed on 1.9.3, but it will probably work on 1.8.7)
+
 * awesome_print
 * httpary
 * json
@@ -21,4 +24,8 @@ I've included some older json files in the repo simply as a prime.  They reallly
 
 # Patches
 If you want to fix something, you should.
+
+
+# License
+Apache 2.0 License
 
